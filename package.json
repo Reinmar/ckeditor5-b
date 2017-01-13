@@ -1,19 +1,19 @@
 {
-  "name": "test-b",
+  "name": "ckeditor5-b",
   "version": "0.0.1",
   "description": "Test B",
   "dependencies": {
-    "test-a": "Reinmar/test-a",
-    "test-c": "Reinmar/test-c"
+    "ckeditor5-a": "Reinmar/ckeditor5-a",
+    "ckeditor5-c": "Reinmar/ckeditor5-c"
   },
   "devDependencies": {
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Reinmar/test-b.git"
+    "url": "git+https://github.com/Reinmar/ckeditor5-b.git"
   },
   "bugs": {
-    "url": "https://github.com/Reinmar/test-b/issues"
+    "url": "https://github.com/Reinmar/ckeditor5-b/issues"
   },
-  "homepage": "https://github.com/Reinmar/test-b#readme"
+  "homepage": "https://github.com/Reinmar/ckeditor5-b#readme"
 }

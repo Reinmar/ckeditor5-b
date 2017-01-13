@@ -1,6 +1,19 @@
 Changelog
 =========
 
+## [1.0.0](https://github.com/Reinmar/ckeditor5-b/compare/v0.1.0...v1.0.0) (2017-01-13)
+
+
+### Features
+
+* Another module for doing nothing. ([d209824](https://github.com/Reinmar/ckeditor5-b/commit/d209824))
+
+
+### BREAKING CHANGE
+
+* Bump the major!
+
+
 ## 0.1.0 (2017-01-13)
 
 

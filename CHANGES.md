@@ -1,6 +1,14 @@
 Changelog
 =========
 
+## [1.1.0](https://github.com/Reinmar/ckeditor5-b/compare/v1.0.0...v1.1.0) (2017-01-13)
+
+
+### Features
+
+* Index module has own backup because it is needed. ([f4e330b](https://github.com/Reinmar/ckeditor5-b/commit/f4e330b))
+
+
 ## [1.0.0](https://github.com/Reinmar/ckeditor5-b/compare/v0.1.0...v1.0.0) (2017-01-13)
 
 

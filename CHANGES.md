@@ -1,6 +1,14 @@
 Changelog
 =========
 
+## [1.2.1](https://github.com/Reinmar/ckeditor5-b/compare/v1.2.0...v1.2.1) (2017-01-26)
+
+
+### Bug Fixes
+
+* Nothing new. ([e3771be](https://github.com/Reinmar/ckeditor5-b/commit/e3771be))
+
+
 ## [1.2.0](https://github.com/Reinmar/ckeditor5-b/compare/v1.1.1...v1.2.0) (2017-01-25)
 
 

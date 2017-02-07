@@ -1,6 +1,13 @@
 Changelog
 =========
 
+## [1.3.0](https://github.com/Reinmar/ckeditor5-b/compare/v1.2.11...v1.3.0) (2017-02-07)
+
+### Features
+
+* Added Gulpfile. ([a683b7b](https://github.com/Reinmar/ckeditor5-b/commit/a683b7b))
+
+
 ## [1.2.11](https://github.com/Reinmar/ckeditor5-b/compare/v1.2.10...v1.2.11) (2017-02-07)
 
 Internal changes only (updated dependencies, documentation, etc.).

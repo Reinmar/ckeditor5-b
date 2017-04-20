@@ -1,6 +1,13 @@
 Changelog
 =========
 
+## [1.4.7](https://github.com/Reinmar/ckeditor5-b/compare/v1.4.6...v1.4.7) (2017-04-20)
+
+### Bug fixes
+
+* Adjusted API to the latest changes. ([1befcdf](https://github.com/Reinmar/ckeditor5-b/commit/1befcdf))
+
+
 ## [1.4.6](https://github.com/Reinmar/ckeditor5-b/compare/v1.4.5...v1.4.6) (2017-04-20)
 
 Internal changes only (updated dependencies, documentation, etc.).

@@ -3,8 +3,8 @@
   "version": "1.4.10",
   "description": "Test B",
   "dependencies": {
-    "@ckeditor/ckeditor5-a": "^3.1.6",
-    "@ckeditor/ckeditor5-c": "^3.0.6"
+    "@ckeditor/ckeditor5-a": "^4.0.0",
+    "@ckeditor/ckeditor5-c": "^3.0.7"
   },
   "devDependencies": {
     "gulp": "^3.9.1"

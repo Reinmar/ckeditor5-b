@@ -1,6 +1,10 @@
 Changelog
 =========
 
+## [1.4.12](https://github.com/Reinmar/ckeditor5-b/compare/v1.4.11...v1.4.12) (2017-05-25)
+
+Internal changes only (updated dependencies, documentation, etc.).
+
 ## [1.4.11](https://github.com/Reinmar/ckeditor5-b/compare/v1.4.10...v1.4.11) (2017-05-11)
 
 Internal changes only (updated dependencies, documentation, etc.).
